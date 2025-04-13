@@ -1,0 +1,1 @@
+{"data_modelling_method": "deepGP", "input_dims": 5, "hidden_dims": [2, 2], "num_inducing_per_layer": [64, 64, 64], "final_outputs_dim": null, "mean_type": "zero", "custom_loss": null, "num_epochs": 2500, "learning_rate": 0.001}
