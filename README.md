@@ -5,9 +5,13 @@ SimuBayes is a powerful, user-friendly machine learning software designed to str
 ## Key Features
 
 ✔ Smart Data Cleaning – Prepare and preprocess datasets efficiently for robust modeling.
+
 ✔ Deep Gaussian Process (DeepGP) Modeling – Capture complex, high-dimensional relationships with Bayesian non-parametric models.
+
 ✔ Accurate Predictions with Uncertainty Bounds – Generate reliable forecasts with quantified confidence intervals.
+
 ✔ Forward Uncertainty Quantification (UQ) – Assess and propagate uncertainties in model outputs for risk-aware decision-making.
+
 ✔ Sensitivity Analysis – Identify critical parameters using Morris screening (for screening) and Sobol indices (for global sensitivity).
 
 ## Why Choose SimuBayes?
@@ -15,8 +19,11 @@ SimuBayes is a powerful, user-friendly machine learning software designed to str
 Unlike conventional machine learning tools, SimuBayes combines flexibility, statistical rigor, and computational efficiency in a single platform:
 
 🔹 Seamless Workflow – From raw data to actionable insights, SimuBayes eliminates the need for multiple disjointed tools.
+
 🔹 Bayesian Robustness – DeepGP models provide uncertainty-aware predictions, crucial for high-stakes applications.
+
 🔹 Interpretable Sensitivity Analysis – Go beyond black-box models—understand which inputs drive outputs the most.
+
 🔹 User-Friendly & Scalable – Designed for both experts and practitioners, with optimized performance for large datasets.
 
 Whether you're optimizing engineering designs, analyzing scientific data, or improving predictive models, SimuBayes empowers data-driven decisions with transparency, reliability, and efficiency.
